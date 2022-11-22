@@ -1,17 +1,14 @@
 # 标题
 ## 可爱的小标记
-:pushpin: 
-
-:white_check_mark: 
-
-:question:
-
+* :pushpin: 
+* :white_check_mark: 
+* :question:
 * :weight_lifting: 
 * :weight_lifting_woman: 
-* :weight_lifting_woman: 
+* `我可以加重字体`
 
 - 1
-  - 1.1 - 111
+  - 1.1 - xxx
 - 2
   - 2.1
 
@@ -21,10 +18,8 @@
   * 2.1
 
 
-:question: **xxx:** `code`  
+:question: **问题:** 我是问题  
 <details>
-  <summary>:white_check_mark: See solution!</summary>
-
-实验中通过在Notebook中创建的AML environment `workshop-env`来定义python相关依赖。该环境加载了一个`conda.yml`，这里定义了所有python的依赖库
-
+  <summary>:white_check_mark: 看看吧</summary>
+我是详细解答
 </details>
