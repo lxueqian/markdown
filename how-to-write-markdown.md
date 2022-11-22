@@ -7,6 +7,7 @@
 * :weight_lifting_woman: 
 * `我可以加重字体`
 * **我可以highlight**
+* 缩进符上下可以不空行，一行或者一段话前后最好空行
 
 &nbsp; 
 &nbsp; 
